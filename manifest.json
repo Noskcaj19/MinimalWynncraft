@@ -1,0 +1,109 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2768",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Minimal Wynncraft Modpack",
+  "version": "0.2.0",
+  "author": "Noskcaj19",
+  "files": [
+    {
+      "projectID": 254284,
+      "fileID": 2709223,
+      "required": false
+    },
+    {
+      "projectID": 228529,
+      "fileID": 2852872,
+      "required": true
+    },
+    {
+      "projectID": 229876,
+      "fileID": 2483393,
+      "required": true
+    },
+    {
+      "projectID": 268324,
+      "fileID": 2460821,
+      "required": true
+    },
+    {
+      "projectID": 236484,
+      "fileID": 2432424,
+      "required": true
+    },
+    {
+      "projectID": 257814,
+      "fileID": 2941424,
+      "required": true
+    },
+    {
+      "projectID": 226406,
+      "fileID": 2857869,
+      "required": true
+    },
+    {
+      "projectID": 278494,
+      "fileID": 2845668,
+      "required": false
+    },
+    {
+      "projectID": 231347,
+      "fileID": 2456231,
+      "required": false
+    },
+    {
+      "projectID": 354143,
+      "fileID": 2939052,
+      "required": true
+    },
+    {
+      "projectID": 318255,
+      "fileID": 2747710,
+      "required": true
+    },
+    {
+      "projectID": 285612,
+      "fileID": 2943191,
+      "required": true
+    },
+    {
+      "projectID": 226447,
+      "fileID": 2477566,
+      "required": true
+    },
+    {
+      "projectID": 248453,
+      "fileID": 2785465,
+      "required": true
+    },
+    {
+      "projectID": 243190,
+      "fileID": 2702694,
+      "required": false
+    },
+    {
+      "projectID": 250290,
+      "fileID": 2665849,
+      "required": true
+    },
+    {
+      "projectID": 300344,
+      "fileID": 2722621,
+      "required": false
+    },
+    {
+      "projectID": 303451,
+      "fileID": 2936566,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}

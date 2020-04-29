@@ -1,0 +1,51 @@
+{
+  "images": {
+    "modpack": {
+      "image": "mainmenu:wynncraft.png",
+      "posX": -160,
+      "posY": 15,
+      "width": 321.5,
+      "height": 112,
+      "alignment": "top_center"
+    }
+  },
+  "buttons": {
+    "multiplayer": {
+      "text": "Wynncraft",
+      "posX": -100,
+      "posY": 72,
+      "width": 200,
+      "height": 20,
+      "action": {
+        "type": "connectToServer",
+        "ip": "play.wynncraft.com"
+      }
+    },
+    "options": {
+      "text": "menu.options",
+      "posX": -100,
+      "posY": 132,
+      "width": 98,
+      "height": 20,
+      "action": {
+        "type": "openGui",
+        "gui": "options"
+      }
+    },
+    "quit": {
+      "text": "menu.quit",
+      "posX": 2,
+      "posY": 132,
+      "width": 98,
+      "height": 20,
+      "action": {
+        "type": "quit"
+      }
+    }
+  },
+  "other": {
+    "background": {
+      "image": "mainmenu:intro.png"
+    }
+  }
+}
